@@ -2,9 +2,9 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('http://www.bizartconsulting.com/path/to/SAP-icons.woff2') format('woff2'),
-    url('http://www.bizartconsulting.com/path/to/SAP-icons.woff') format('woff'),
-    url('http://www.bizartconsulting.com/path/to/SAP-icons.ttf') format('truetype');
+    url('https://fedems.github.io/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
+    url('https://fedems.github.io/CustomFontsSAC/SAP-icons.woff') format('woff'),
+    url('https://fedems.github.io/CustomFontsSAC/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
